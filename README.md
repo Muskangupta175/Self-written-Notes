@@ -1,2 +1,2 @@
 # Self-written-Notes
-Self made notes related to Python, Machine learning and Deep learning
+Find notes for Data analytics, Machine learning and Deep learning. Work in Progress.
